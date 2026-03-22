@@ -99,7 +99,7 @@ export default function LoginPage() {
         </form>
         <Typography variant="body2" sx={{ mt: 2, textAlign: 'center' }}>
           New organization?{' '}
-          <Link to={ROUTES.REGISTER}>Create workspace hello</Link>
+          <Link to={ROUTES.REGISTER}>Create workspace</Link>
         </Typography>
       </Paper>
     </Box>
